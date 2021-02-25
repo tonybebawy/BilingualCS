@@ -8,3 +8,6 @@ English| French|
 | Flow| Débit|
 
 ## Software Engineering/Génie Logiciel
+English| French|
+|--- |---      |
+| Sequence Diagram|Diagramme Séquence Systeme|
