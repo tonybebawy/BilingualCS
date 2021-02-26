@@ -13,3 +13,6 @@ English| French|
 |Physical Layer|Couche Physique|
 
 ## Software Engineering/Génie Logiciel
+English| French|
+|--- |---|
+|Diagramme de Classes Conceptuel|Domain Model|
