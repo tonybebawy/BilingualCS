@@ -6,7 +6,7 @@ Contributions: please do not change the main branch, make a separate branch with
 
 ## Networks/Téléinformatique
 English| French|
-|--- |---|
+|:--- |:---|
 |Bandwidth|Bande Passante|
 |Flow|Débit|
 |Data Link Layer|Couche Liaison de données|
@@ -14,5 +14,5 @@ English| French|
 
 ## Software Engineering/Génie Logiciel
 English| French|
-|--- |---|
+|:--- |:---|
 |Diagramme de Classes Conceptuel|Domain Model|
